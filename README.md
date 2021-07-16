@@ -1,9 +1,10 @@
 # ClassicFPSController
 
 I created this FPSController with older games like Quake and Half Life in mind.
-It handles slopes pretty well and has pretty well and has Quake 3 style sidestrafing.
+I'm happy with how it handles momentum and slopes.
+It also has Quake3 style sidestrafing.
 
-The project includes assets and a small level to run around in.
+The project includes a small level to run around in.
 
 It uses Unity's old input system.
 
